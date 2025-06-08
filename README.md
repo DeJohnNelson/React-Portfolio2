@@ -9,5 +9,5 @@ My portfolio was built using:
 
 It features:
 #A navigation bar
-# An about me page along with a Portfolio, Contact,  and Resume Page
+#An about me page along with a Portfolio, Contact,  and Resume Page
 #Features other projects that I have worked on
